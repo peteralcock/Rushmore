@@ -1,5 +1,5 @@
-# AiCourse
-Generate lesson plans with generative AI and sell your courses online!
+# 10XAi - Lesson Planner
+Hop on the Magic Schoolbus and generate lesson plans with generative AI, then sell your courses online!
 ![Screenshot](/splash.png?raw=true "Preview")
 
 This project is a SaaS web application that allows users to create AI-generated courses with ease. It features user authentication, course creation, subscriptions, and much more. Both users and administrators can access various features that enhance the user experience and streamline management.
