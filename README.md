@@ -1,4 +1,4 @@
-# 10XAi - Lesson Planner
+# 10XTeach
 Hop on the Magic Schoolbus and generate lesson plans with generative AI, then sell your courses online!
 ![Screenshot](/splash.png?raw=true "Preview")
 
