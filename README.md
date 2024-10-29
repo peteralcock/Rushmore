@@ -1,5 +1,6 @@
 # Rushmore
 Teach yourself (and others) whatever you want. 
+![Screenshot](public/rushmore-936098835.jpg?raw=true "Hero")
 
 ## Introduction
 Hop on the Magic Schoolbus and instantly create your own lesson plans with AI. And then sell your courses online! This project is a SaaS web application that allows users to create AI-generated courses with ease. It features user authentication, course creation, subscriptions, and much more.
@@ -106,11 +107,7 @@ To run and develop this SaaS web application, you will need the following tools:
    npm start
    ```
 
-## Updates
 
-Regular updates will be provided to enhance features, improve performance, and fix bugs. Keep your app up-to-date to benefit from the latest improvements.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
