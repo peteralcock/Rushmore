@@ -1,8 +1,8 @@
-# 10XTeach
-Hop on the Magic Schoolbus and generate lesson plans with generative AI, then sell your courses online!
-![Screenshot](/splash.png?raw=true "Preview")
+# Rushmore
+Teach yourself (and others) whatever you want. 
 
-This project is a SaaS web application that allows users to create AI-generated courses with ease. It features user authentication, course creation, subscriptions, and much more. Both users and administrators can access various features that enhance the user experience and streamline management.
+## Introduction
+Hop on the Magic Schoolbus and instantly create your own lesson plans with AI. And then sell your courses online! This project is a SaaS web application that allows users to create AI-generated courses with ease. It features user authentication, course creation, subscriptions, and much more.
 
 ## Features
 
@@ -39,6 +39,8 @@ This project is a SaaS web application that allows users to create AI-generated 
   - Features, About, Contact, Terms, Privacy, Cancellation, Refund, and Billing & Subscription pages are available.
 - **Logout**: Log out from any session.
 - **Responsive Design**: The web app is fully responsive and works on mobile devices and any screen size.
+
+![Screenshot](/splash.png?raw=true "Preview")
 
 ### Admin Panel Features
 - **Dashboard**: Admins can track the number of users, courses, recurring revenue, total revenue, paid/free users, and video/image courses.
