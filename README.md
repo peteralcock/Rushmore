@@ -1,3 +1,4 @@
+# SAVE LATIN
 ![Screenshot](public/rushmore-936098835.jpg?raw=true "Hero")
 
 ## Welcome to Rushmore
