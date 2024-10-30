@@ -1,4 +1,4 @@
-# Rushmore
+# I saved Latin. What did YOU ever do?
 ![Screenshot](public/rushmore-936098835.jpg?raw=true "Hero")
 
 ## Introduction
