@@ -1,3 +1,4 @@
+# "I saved Latin. What did you ever do?"
 ![Screenshot](public/rushmore-936098835.jpg?raw=true "Hero")
 
 ## Welcome to Rushmore
