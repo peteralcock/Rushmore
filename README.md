@@ -5,9 +5,7 @@
 Teach yourself (and others) whatever you want. Hop on the Magic Schoolbus and instantly create your own lesson plans with AI. And then sell your courses online! This project is a SaaS web application that allows users to create AI-generated courses with ease. It features user authentication, course creation, subscriptions, and much more.
 
 ## Features
-"I saved Latin. What did YOU ever do?"
 
-### Highlights
 - **Landing Page**: A modern SaaS-like landing page showcasing features, pricing, and testimonials.
 - **Authentication**: Users can log in or register using their email.
 - **Social Authentication**: Log in or register using Google and Facebook.
