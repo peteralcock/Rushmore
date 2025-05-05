@@ -1,6 +1,6 @@
-# "I saved Latin. What did you ever do?"
-![Screenshot](public/rushmore-936098835.jpg?raw=true "Hero")
 
+![Screenshot](public/rushmore-936098835.jpg?raw=true "Hero")
+"I saved Latin. What did you ever do?"
 ## Welcome to Rushmore
 Teach yourself (and others) whatever you want. Hop on the Magic Schoolbus and instantly create your own lesson plans with AI. And then sell your courses online! This project is a SaaS web application that allows users to create AI-generated courses with ease. It features user authentication, course creation, subscriptions, and much more.
 
